@@ -1,8 +1,6 @@
 package leetcode;
 
-/**
- * @author : hxf_life@126.com
- */
+
 public class ConstructArr {
     public static int[] constructArr(int[] a) {
         int[] array = {};

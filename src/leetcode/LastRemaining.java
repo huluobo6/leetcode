@@ -3,9 +3,6 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author : hxf_life@126.com
- */
 public class LastRemaining {
     public int lastRemaining(int n, int m) {
         List<Integer> list = new ArrayList<>();

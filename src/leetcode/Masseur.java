@@ -1,8 +1,5 @@
 package leetcode;
 
-/**
- * @author : hxf_life@126.com
- */
 public class Masseur {
     public static int massage(int[] nums) {
         int numsLength = nums.length;

@@ -1,8 +1,5 @@
 package leetcode;
 
-/**
- * @author : hxf_life@126.com
- */
 public class GetIntersectionNode {
     public ListNodes getIntersectionNode(ListNodes headA, ListNodes headB) {
 

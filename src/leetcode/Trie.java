@@ -3,10 +3,6 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-
-/**
- * @author : hxf_life@126.com
- */
 class Trie {
 
     private List<String> value;

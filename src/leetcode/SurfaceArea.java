@@ -1,9 +1,5 @@
 package leetcode;
 
-
-/**
- * @author : hxf_life@126.com
- */
 public class SurfaceArea {
     public int surfaceArea(int[][] grid) {
         int n = grid.length, area = 0;

@@ -2,9 +2,6 @@ package leetcode;
 
 import java.util.Stack;
 
-/**
- * @author : hxf_life@126.com
- */
 public class CQueue {
 
     Stack<Integer> stack1;

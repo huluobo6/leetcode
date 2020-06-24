@@ -1,8 +1,5 @@
 package leetcode;
 
-/**
- * @author : hxf_life@126.com
- */
 public class CountDigitOne {
     public static int countDigitOne(int n) {
         int count = 0;

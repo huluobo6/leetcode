@@ -1,4 +1,6 @@
 package leetcode;
+
+
 /**
  * 8. 字符串转换整数 (atoi)
  * 请你来实现一个 atoi 函数，使其能将字符串转换成整数。
@@ -12,10 +14,6 @@ package leetcode;
  * 本题中的空白字符只包括空格字符 ' ' 。
  * 假设我们的环境只能存储 32 位大小的有符号整数，那么其数值范围为 [−231,  231 − 1]。如果数值超过这个范围，请返回  INT_MAX (231 − 1) 或 INT_MIN (−231) 。
  **/
-
-/**
- * @author : hxf_life@126.com
- */
 public class MyAtoi {
     public int myAtoi(String str) {
         char[] chars = str.toCharArray();

@@ -9,10 +9,6 @@ package leetcode;
  * 输入：s = "abc"
  * 输出：["abc","acb","bac","bca","cab","cba"]
  **/
-
-/**
- * @author : hxf_life@126.com
- */
 public class Permutation {
 
 }

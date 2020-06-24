@@ -1,9 +1,5 @@
 package leetcode;
 
-
-/**
- * @author : hxf_life@126.com
- */
 public class ReverseString {
 
     public static void main(String[] args) {

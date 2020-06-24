@@ -15,10 +15,6 @@ import java.util.Arrays;
  1 <= nums.length <= 50000
  1 <= nums[i] <= 10000
  * */
-
-/**
- * @author : hxf_life@126.com
- */
 public class SortArray {
     public int[] exchange(int[] nums) {
         int length = nums.length;

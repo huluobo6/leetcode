@@ -2,9 +2,6 @@ package leetcode;
 
 import java.util.concurrent.Semaphore;
 
-/**
- * @author : hxf_life@126.com
- */
 public class H2O {
 
     private Semaphore h = new Semaphore(2);

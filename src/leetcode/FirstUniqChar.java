@@ -3,9 +3,6 @@ package leetcode;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- * @author : hxf_life@126.com
- */
 public class FirstUniqChar {
     public static void main(String[] args) {
         System.out.println(firstUniqChar("loveleetcode"));

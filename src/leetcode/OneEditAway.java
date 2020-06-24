@@ -1,9 +1,5 @@
 package leetcode;
 
-
-/**
- * @author : hxf_life@126.com
- */
 public class OneEditAway {
     public static boolean oneEditAway(String first, String second) {
         int i = 0;

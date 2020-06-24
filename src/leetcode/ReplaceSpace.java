@@ -1,8 +1,5 @@
 package leetcode;
 
-/**
- * @author : hxf_life@126.com
- */
 public class ReplaceSpace {
 
     public static String replaceSpace(String s) {

@@ -3,9 +3,6 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author : hxf_life@126.com
- */
 public class MinStack {
 
     private List<Integer> list = null;
